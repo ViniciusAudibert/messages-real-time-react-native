@@ -3,6 +3,7 @@
     "name": "nlw-heat-impulse-app-2021",
     "slug": "nlw-heat-impulse-app-2021",
     "version": "1.0.0",
+    "scheme": "nlw-heat-impulse-app-2021",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
